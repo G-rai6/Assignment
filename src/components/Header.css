@@ -1,0 +1,9 @@
+.dialogue{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    font-size: 20px;
+    font-weight: 300;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

@@ -1,0 +1,40 @@
+.imagepost{
+ 
+    border-radius: 10px;
+
+}
+.imagepost2{
+  
+   width: 10px;
+    border-radius: 10px;
+
+}
+.p{
+    margin:5px;
+    padding: 1px;
+}
+
+
+.foot{
+  
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    background-color: white;
+    margin-top: 70px;
+}
+.post1{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    height:350px;
+    width:300px;
+
+}
+.post2{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    height:350px;
+    width:300px;
+}
